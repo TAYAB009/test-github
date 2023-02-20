@@ -1,5 +1,4 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
-
-This repository is built step by step in the tutorial.
+# Revising my GitHub commands 
+This is just a simple test to revise my simple commands that i have learned so far.
+Since, I am using GitHub for over 2-Years but steill I believe there are some 
+abstractions that i need to understand.
